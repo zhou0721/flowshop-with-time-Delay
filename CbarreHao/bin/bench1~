@@ -1,0 +1,18 @@
+#!/bin/bash
+
+
+dossier=4x15
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/lb1234/4x15.csv
+
+

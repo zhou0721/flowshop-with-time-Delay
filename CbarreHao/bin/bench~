@@ -1,0 +1,177 @@
+#!/bin/bash
+
+
+dossier=3x11
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/3x11.csv
+
+
+dossier=3x12
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/3x12.csv
+
+
+dossier=3x13
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/3x13.csv
+
+
+dossier=3x14
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/3x14.csv
+
+dossier=3x15
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/3x15.csv
+
+dossier=3x16
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/3x16.csv
+
+dossier=4x11
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/4x11.csv
+
+
+dossier=4x12
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/4x12.csv
+
+
+dossier=4x13
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/4x13.csv
+
+
+dossier=4x14
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/3x14.csv
+
+dossier=3x15
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/4x15.csv
+
+dossier=4x16
+
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_1
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_2
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_3
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_4
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_5
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_6
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_7
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_8
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_9
+./pse -e ../excel/benchmarks_test -f ../data/benchmarks_test/$dossier/fd_10
+mv ../excel/benchmarks_test/fd-out.csv ../excel/benchmarks_test/newlbplusgrand/4x16.csv
+

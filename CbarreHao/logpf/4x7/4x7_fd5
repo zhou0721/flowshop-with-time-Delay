@@ -1,0 +1,29 @@
+***************************************
+* Resolution du Fm|delai min-max|Cmax *
+***************************************
+
+Mode FICHIER UNIQUE
+ Borne sup pvc = 2378
+ Borne sup pr1 = 2300
+ Borne sup pr4 = 2286
+ Borne sup pr2 = 2286
+
+  bs au noeud racine : 2286
+  binf du noeud racine : 2170 (0).
+  Durée d'execution : 0.00.
+  Ordo :6 3 4 2 5 1 0   Optimal : 2286 (57).
+  Durée d'execution : 1.93.
+  Ordo : 6 3 4 2 5 1 0 
+  Durée avant de trouver l'optimal : -0.04.
+  Ecart entre la première borne inf et l'optimal : 116.
+  Nombre de noeuds avant l'optimal : 0.
+  Nombre de noeuds total : 241
+ Compteurs : 
+  cptsttpr1 : 5
+  cptsttpr2 : 0
+  cptsttpr4 : 0
+  cptsttpvc : 136
+  cptpr1 : 91
+  cptpr2 : 101
+  cptpr4 : 101
+  cptpvc : 56
